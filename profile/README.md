@@ -34,9 +34,24 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 
 | Team ID | Project Name | Project Guide | Repository |
 |---|---|---|---|
+| B1 | FINGERPRINT | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B1-FINGERPRINT) |
+| B2 | AgriVeda | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B2-AgriVeda) |
+| B3 | PneumoniaDetection | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B3-PneumoniaDetection) |
 | B4 | RealGuard | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B4-RealGuard) |
+| B5 | agent-project | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B5-agent-project) |
+| B6 | Railway-platform-boundary-violation-detection | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B6-Railway-platform-boundary-violation-detection) |
+| B7 | MEDICBOT | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B7-MEDICBOT) |
+| B8 | AI_Secure_EVoting | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B8-AI_Secure_EVoting) |
+| B9 | OwaspScan | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B9-OwaspScan) |
+| B10 | NoteForge | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B10-NoteForge) |
+| B11 | Grounded-semantic-aggregation | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B11-Grounded-semantic-aggregation) |
+| B12 | DEEPFAKE-FACE-DETECTION | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B12--DEEPFAKE-FACE-DETECTION) |
+| B13 | ProcureGuard | To be assigned | [View Project](https://github.com/VAST-CSE/2023-2027-MAIN-B13-ProcureGuard) |
+| B14 | NeuroPlay | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B14-NeuroPlay) |
+| B15 | Hydroponic | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B15-Hydroponic) |
+| B16 | AccidentModel | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B16-AccidentModel) |
+| B17 | Project_constructionsite | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B17-Project_constructionsite) |
 | B18 | Desktop AI Assistant | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B18-DESKTOP-AI-ASSISTANT) |
-
 Add other Batch B teams when their repositories become available.
 
 ### Batch C
