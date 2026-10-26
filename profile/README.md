@@ -31,7 +31,6 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 | A18 | RouteMatch | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A18-RouteMatch) |
 
 ### Batch B
-
 | Team ID | Project Name | Project Guide | Repository |
 |---|---|---|---|
 | B1 | FINGERPRINT | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B1-FINGERPRINT) |
@@ -52,7 +51,6 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 | B16 | AccidentModel | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B16-AccidentModel) |
 | B17 | Project_constructionsite | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B17-Project_constructionsite) |
 | B18 | Desktop AI Assistant | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-B18-DESKTOP-AI-ASSISTANT) |
-Add other Batch B teams when their repositories become available.
 
 ### Batch C
 
