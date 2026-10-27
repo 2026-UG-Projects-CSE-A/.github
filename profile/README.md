@@ -1,5 +1,5 @@
 
-# VAST-CSE — Main Project Directory
+# VAST-CSE — 2023 Main Project Directory
 
 Official directory of CSE final-year main projects at Vidya Academy of Science and Technology.
 
