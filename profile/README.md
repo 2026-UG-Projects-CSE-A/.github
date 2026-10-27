@@ -56,23 +56,24 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 
 | Team ID | Project / Repository Name | Project Guide | Repository |
 |---|---|---|---|
-| C1 | Neha K R | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C1-Neha-K-R) |
-| C2 | SUHA-IA | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C2-SUHA-IA) |
-| C3 | SONA-P-SAILAN | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C3-SONA-P-SAILAN) |
-| C4 | SREYAS-LINITH | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C4-SREYAS-LINITH) |
-| C6 | SREELAKSHMI-VA | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C6-SREELAKSHMI-VA) |
-| C7 | SIVA-VINOD | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C7-SIVA-VINOD) |
-| C8 | YADUKRISHNAN-NK | To be confirmed | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C8-YADUKRISHNAN-NK) |
-| C9 | NAVANEETH-ARUN | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C9-NAVANEETH-ARUN) |
-| C10 | SHINOY-BABU | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C10-SHINOY-BABU) |
-| C11 | YASH-RC | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C11-YASH-RC) |
-| C12 | SAYANTH-KRISHNA | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C12-SAYANTH-KRISHNA) |
-| C13 | ADHIL-NASEEM | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C13-ADHIL-NASEEM) |
-| C14 | SHEIKHA-V | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C14-SHEIKHA-V) |
-| C15 | NOEL-REJI | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C15-NOEL-REJI) |
-| C16 | SANDRA-PALLIKUDATH-BIJUKUMAR | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C16-SANDRA-PALLIKUDATH-BIJUKUMAR) |
-| C17 | MUHAMMED-SHADHI | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C17-MUHAMMED-SHADHI) |
-| C18 | SREEKUTTY | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C18-SREEKUTTY) |
+| C1 | AdverseGuard | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C1-Neha-K-R) |
+| C2 | InterviewIQ | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C2-SUHA-IA) |
+| C3 | SwarmGreen | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C3-SONA-P-SAILAN) |
+| C4 | BagSense | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C4-SREYAS-LINITH) |
+| C5 | LegalGraphRAG | To be assigned | [View Repository]([https://github.com/VAST-CSE/2023-27-MAIN-C4-SREYAS-LINITH](https://github.com/2026-UG-Projects-CSE-C/2026-CSE-C5-LegalGraphRAG)) |
+| C6 | ExplainHeart | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C6-SREELAKSHMI-VA) |
+| C7 | NeuroSeg | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C7-SIVA-VINOD) |
+| C8 | DeShare | To be confirmed | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C8-YADUKRISHNAN-NK) |
+| C9 | DriveAlert | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C9-NAVANEETH-ARUN) |
+| C10 | AdaptiveCSI | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C10-SHINOY-BABU) |
+| C11 | TrustMAS | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C11-YASH-RC) |
+| C12 | CropChain | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C12-SAYANTH-KRISHNA) |
+| C13 | IMMUNE | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C13-ADHIL-NASEEM) |
+| C14 | VisionMind AI | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C14-SHEIKHA-V) |
+| C15 | SecureIOT-AE | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C15-NOEL-REJI) |
+| C16 | EduGenie | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C16-SANDRA-PALLIKUDATH-BIJUKUMAR) |
+| C17 | ClauseMind AI | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C17-MUHAMMED-SHADHI) |
+| C18 | AccesBridge | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C18-SREEKUTTY) |
 
 **Note:** The supplied repository list contains two repositories with team ID C8. Verify the correct ID for each before finalizing the directory. The Batch C repository names may also need to be replaced with actual project titles.
 
