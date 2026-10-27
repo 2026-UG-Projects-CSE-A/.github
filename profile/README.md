@@ -63,7 +63,6 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 | C6 | SREELAKSHMI-VA | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C6-SREELAKSHMI-VA) |
 | C7 | SIVA-VINOD | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C7-SIVA-VINOD) |
 | C8 | YADUKRISHNAN-NK | To be confirmed | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C8-YADUKRISHNAN-NK) |
-| C8 | Aegis Cyber | To be confirmed | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-C8-Aegis_Cyber) |
 | C9 | NAVANEETH-ARUN | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C9-NAVANEETH-ARUN) |
 | C10 | SHINOY-BABU | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C10-SHINOY-BABU) |
 | C11 | YASH-RC | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C11-YASH-RC) |
