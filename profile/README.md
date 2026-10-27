@@ -60,7 +60,7 @@ Projects are organized by graduating cohort, batch, and team. Each team has its 
 | C2 | InterviewIQ | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C2-SUHA-IA) |
 | C3 | SwarmGreen | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C3-SONA-P-SAILAN) |
 | C4 | BagSense | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C4-SREYAS-LINITH) |
-| C5 | LegalGraphRAG | To be assigned | [View Repository]([https://github.com/VAST-CSE/2023-27-MAIN-C4-SREYAS-LINITH](https://github.com/2026-UG-Projects-CSE-C/2026-CSE-C5-LegalGraphRAG)) |
+| C5 | LegalGraphRAG | To be assigned | [View Repository](https://github.com/2026-UG-Projects-CSE-C/2026-CSE-C5-LegalGraphRAG) |
 | C6 | ExplainHeart | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C6-SREELAKSHMI-VA) |
 | C7 | NeuroSeg | To be assigned | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C7-SIVA-VINOD) |
 | C8 | DeShare | To be confirmed | [View Repository](https://github.com/VAST-CSE/2023-27-MAIN-C8-YADUKRISHNAN-NK) |
